@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "180282780078",
+    "firebase_url": "https://kakao1.firebaseio.com",
+    "project_id": "kakao1",
+    "storage_bucket": "kakao1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180282780078:android:af8a83b4bb817cf1",
+        "android_client_info": {
+          "package_name": "com.example.kakao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180282780078-9q5lrclj6ca4hji0l1jut6l53o7s0bpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kakao",
+            "certificate_hash": "d20e150d5567f9bb47cc7159ca2f07163d17ce07"
+          }
+        },
+        {
+          "client_id": "180282780078-247b1pf7vjkij94qcn4g21b8p6uljual.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZOVpjIDjbRXSTwJThxpvvu6a1176sE6U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180282780078-247b1pf7vjkij94qcn4g21b8p6uljual.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
